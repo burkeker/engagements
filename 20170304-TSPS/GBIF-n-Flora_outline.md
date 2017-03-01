@@ -1,6 +1,7 @@
 ## GBIF and Flora (25 mins) ##
 
 Take home messages:
+
 1. [GBIF](https://demo.gbif.org/what-is-gbif) is a biodiversity open-data initiative to support scientific research
 2. Making research data available supports fact-based decision-making and peer-review activities
 3. Data offer flora dimensions to extend to
