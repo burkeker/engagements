@@ -21,7 +21,7 @@ Take home messages:
 
 #### Atlas of Flora Danica ####
 1. 20 years of work covering Denmark in 2228 squares of 5x5 km.
-2. 190,000 voucher specimens are digitised,recorded, and then deposited in herbaria. (200 m high if stacked up)
+2. 190,000 voucher specimens have been digitised,recorded, and then deposited in herbaria. (200 m high if stacked up)
 3. 3000+ species with 2000+ species distribution maps based on data.
 4. Data is published through [GBIF](https://demo.gbif.org/dataset/8df9af24-1fbd-4699-a545-9a2867ff25fe#description), as well as [Atlas Flora Danica](http://atlasfloradanica.dk/)
 5. [Printed version](https://bibliotek.kk.dk/ting/collection/870970-basis%3A52129117)
